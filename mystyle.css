@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+th {
+    background-color: #7B77FF;
+    color: white;
+}
+
+.tg {
+    background-color: white;
+    color: black;
+}
+
+td {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    width: 100%;
+}
